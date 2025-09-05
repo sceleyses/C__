@@ -1,0 +1,10 @@
+cmake-build-debug/.cmake
+CMakeFiles
+Testing
+.idea
+CMakeCache.txt
+.ninja_deps
+.ninja_log
+build.ninja
+C__.exe
+cmake_install.cmake
