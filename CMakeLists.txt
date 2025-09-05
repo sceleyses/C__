@@ -4,6 +4,7 @@ project(C__)
 set(CMAKE_CXX_STANDARD 98)
 
 add_executable(C__
-        Labblabla/Lab2/six.cpp
+
+        Homework/Task_1_14.cpp
 
 )
