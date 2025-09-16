@@ -1,1 +1,1 @@
-# C labs
+# C/C++ labs
