@@ -2,6 +2,7 @@
 #include <math.h>
 
 int main() {
+
     double m1, m2, r;
     printf("Please enter a value of m1 and m2: ");
     scanf("%lf %lf", &m1, &m2);

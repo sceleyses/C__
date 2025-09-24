@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main() {
+
     double a;
     printf("Enter a number: ");
     scanf("%lf", &a);

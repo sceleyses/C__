@@ -53,6 +53,7 @@ void part_f(int x) {
 }
 
 int main() {
+
     int x, p;
     printf("Enter x:");
     scanf("%d", &x);

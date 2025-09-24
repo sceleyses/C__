@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main() {
+
     char name1[20], name2[20];
     printf ( "Enter first word: ");
     scanf ( "%s", name1);

@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main() {
+
     double a = 2+31;
     printf("2+31 = %.2lf;", a);
     double b = 45*54-11;

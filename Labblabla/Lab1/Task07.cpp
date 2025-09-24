@@ -2,6 +2,7 @@
 #include <math.h>
 
 int main() {
+
     double x;
     printf("Enter a real number x: ");
     scanf("%lf", &x);

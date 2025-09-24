@@ -2,6 +2,7 @@
 
 
 int main() {
+
     double a, t1, v, S, t2;
     printf ("Enter the value of acceleration:");
     scanf ("%lf", &a);

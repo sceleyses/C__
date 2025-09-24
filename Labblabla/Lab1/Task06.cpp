@@ -4,6 +4,7 @@
  */
 
 int main() {
+
     double temperature_celsius;
     double temperature_fahrenheit;
     printf("Enter temperature in Celsius: ");
