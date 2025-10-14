@@ -5,6 +5,4 @@ set(CMAKE_CXX_STANDARD 98)
 
 add_executable(C__
 
-        Homework/Task_1_14.cpp
-
 )
